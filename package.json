@@ -1,0 +1,7 @@
+{
+  "name": "serverless-proxy-bridge",
+  "version": "1.0.0",
+  "description": "Serverless HTTP bridge for API integration",
+  "private": true,
+  "license": "MIT"
+}
